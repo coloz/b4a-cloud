@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Blink",
+        "author": "奈何col",
+        "url": "/example/blink.b4a",
+        "description": "你的第一课————让LED闪烁起来!",
+        "type": "Basic"
+    },
+    {
+        "name": "Read Digital Input",
+        "author": "奈何col",
+        "url": "/example/blink-led.b4a",
+        "description": "通过按键控制开关灯",
+        "type": "Basic"
+    },
+    {
+        "name": "Read Analog Input",
+        "author": "奈何col",
+        "url": "/example/blink-led.b4a",
+        "description": "读取模拟值，并串口输出",
+        "type": "Basic"
+    },
+    {
+        "name": "Fade",
+        "author": "奈何col",
+        "url": "/example/blink-led.b4a",
+        "description": "实现呼吸灯效果",
+        "type": "Basic"
+    },
+    {
+        "name": "Light",
+        "author": "奈何col",
+        "url": "/example/blink-led.b4a",
+        "description": "通过电位器，调节LED亮度",
+        "type": "Basic"
+    }
+]

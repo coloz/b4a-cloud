@@ -3,6 +3,28 @@
         "name":"WiFiduino32 v2",
         "description":"OpenJumper WiFiduino32",
         "verison":"0.0.1",
+        "author": "OpenJumper",
         "url":"https://bt.clz.me:8888/files"
-    }   
+    },
+    {
+        "name":"WiFiduino",
+        "description":"OpenJumper WiFiduino",
+        "verison":"0.0.1",
+        "author": "OpenJumper",
+        "url":"https://bt.clz.me:8888/files"
+    },
+    {
+        "name":"WiFiduino32 v1",
+        "description":"OpenJumper WiFiduino32",
+        "verison":"0.0.1",
+        "author": "OpenJumper",
+        "url":"https://bt.clz.me:8888/files"
+    },
+    {
+        "name":"合宙ESP32C3",
+        "description":"合宙ESP32C3",
+        "verison":"0.0.1",
+        "author": "奈何col",
+        "url":"https://bt.clz.me:8888/files"
+    }
 ]
